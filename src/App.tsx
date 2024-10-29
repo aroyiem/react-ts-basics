@@ -1,4 +1,3 @@
-import CourseGoal from "./components/CourseGoal.tsx";
 import goalsImg from "./assets/goals.jpg";
 import Header from "./components/Header.tsx";
 import {useState} from "react";
